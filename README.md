@@ -2,21 +2,21 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narattamsutradhar&label=Profile%20views&color=0e75b6&style=flat" alt="narattamsutradhar" /> </p>
 
-- 🔭 I’m currently working on **As a Freelancher**
+- 🔭 I’m currently studying**
 
 - 🌱 I’m currently learning **JavaScript, Express, Node, React**
 
-- 👯 I’m looking to collaborate on **Open Source Projects**
+- 👯 I’m looking to collaborate with **other devloper from where i can sharp my skill**
 
-- 🤝 I’m looking for help with **Open Source Projects**
+- 🤝 I’m looking for help **Getting Job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/narattamsutradhar](https://github.com/narattamsutradhar)
 
-- 💬 Ask me about **React, Express**
+- 💬 Ask me about **React, Express, Nodejs**
 
 - 📫 How to reach me **narattam555@gmail.com**
 
-- ⚡ Fun fact **I Love Learning Modern Technology**
+- ⚡ Fun fact **I can sit 10-12 hour non stop infront of my pc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
