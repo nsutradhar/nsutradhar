@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help **Getting Job**
 
-- 👨‍💻 All of my projects are available at [https://github.com/narattamsutradhar](https://github.com/narattamsutradhar)
+- 👨‍💻 All of my projects are available at [https://github.com/Ns-Dhar](https://github.com/Ns-Dhar)
 
 - 💬 Ask me about **React, Express, Nodejs**
 
